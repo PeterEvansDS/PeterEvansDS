@@ -1,9 +1,8 @@
-# Peter Evans
+# <div align = 'center'>Hi 👋, I'm Peter Evans<div>
 
 
-Hi! 
-I'm Peter, a current Applied Data Science MSc student and MSci Physics graduate, aspiring to work in the Data Science field.
+Current Applied Data Science MSc student and MSci Physics graduate, looking to work in the Data Science field at the start of 2022.
 
-This repository contains several of the projects I've worked on over the course of my current Masters. 
+This profile contains several of the projects I've worked on over the course of my current Masters. 
 
 
